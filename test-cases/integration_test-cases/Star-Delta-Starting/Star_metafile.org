@@ -1,0 +1,12 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_01_usability.org][Star_Delta_Starting_01_usability.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_02_introduction.org][Star_Delta_Starting_02_introduction.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_03_theory.org][Star_Delta_Starting_03_theory.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_04_procedure_p1.org][Star_Delta_Starting_04_procedure_p1.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_05_procedure_p2.org][Star_Delta_Starting_05_procedure_p2.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_06_simulator.org][Star_Delta_Starting_06_simulator.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_07_quiz_p1.org][Star_Delta_Starting_07_quiz_p1.org]]
+8. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_08_quiz_p2.org][Star_Delta_Starting_08_quiz_p2.org]]
+9. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_09_quiz_p3.org][Star_Delta_Starting_09_quiz_p3.org]]
+10. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/Star_Delta_Starting_10_quiz_p4.org][Star_Delta_Starting_10_quiz_p4.org]]
+11. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Star/output.txt][output.txt]]

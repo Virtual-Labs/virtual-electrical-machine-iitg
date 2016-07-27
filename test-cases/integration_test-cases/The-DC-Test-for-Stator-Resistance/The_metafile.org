@@ -1,0 +1,11 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_01_usuability.org][The_DC_Test_for_Stator_Resistance_01_usuability.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_02_introduction.org][The_DC_Test_for_Stator_Resistance_02_introduction.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_03_theory.org][The_DC_Test_for_Stator_Resistance_03_theory.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_04_procedure.org][The_DC_Test_for_Stator_Resistance_04_procedure.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_05_procedure_p2.org][The_DC_Test_for_Stator_Resistance_05_procedure_p2.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_06_simulator.org][The_DC_Test_for_Stator_Resistance_06_simulator.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_07_quiz_p1.org][The_DC_Test_for_Stator_Resistance_07_quiz_p1.org]]
+8. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_08_quiz_p2.org][The_DC_Test_for_Stator_Resistance_08_quiz_p2.org]]
+9. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_09_quiz_p3.org][The_DC_Test_for_Stator_Resistance_09_quiz_p3.org]]
+10. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/The/The_DC_Test_for_Stator_Resistance_10_quiz_p4.org][The_DC_Test_for_Stator_Resistance_10_quiz_p4.org]]

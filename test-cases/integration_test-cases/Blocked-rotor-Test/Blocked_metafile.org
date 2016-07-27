@@ -1,0 +1,13 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_01_usuability.org][Blocked_Rotor_Test_01_usuability.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_02_introduction.org][Blocked_Rotor_Test_02_introduction.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_03_theory.org][Blocked_Rotor_Test_03_theory.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_04_procedure_p1.org][Blocked_Rotor_Test_04_procedure_p1.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_05_procedure_p2.org][Blocked_Rotor_Test_05_procedure_p2.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_06_simulator_p1.org][Blocked_Rotor_Test_06_simulator_p1.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_07_simulator_p2.org][Blocked_Rotor_Test_07_simulator_p2.org]]
+8. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_08_solvedExamples.org][Blocked_Rotor_Test_08_solvedExamples.org]]
+9. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_09_quiz_p1.org][Blocked_Rotor_Test_09_quiz_p1.org]]
+10. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_10_quiz_p2.org][Blocked_Rotor_Test_10_quiz_p2.org]]
+11. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_11_quiz_p3.org][Blocked_Rotor_Test_11_quiz_p3.org]]
+12. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Blocked/Blocked_Rotor_Test_12_quiz_p4.org][Blocked_Rotor_Test_12_quiz_p4.org]]

@@ -1,0 +1,11 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_01_usability.org][Auto_Transformer_Starting_01_usability.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_02_introduction.org][Auto_Transformer_Starting_02_introduction.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_03_theory.org][Auto_Transformer_Starting_03_theory.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_04_procedure_p1.org][Auto_Transformer_Starting_04_procedure_p1.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_05_procedure_p2.org][Auto_Transformer_Starting_05_procedure_p2.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_06_simulator.org][Auto_Transformer_Starting_06_simulator.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_07_quiz_p1.org][Auto_Transformer_Starting_07_quiz_p1.org]]
+8. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_08_quiz_p2.org][Auto_Transformer_Starting_08_quiz_p2.org]]
+9. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_09_quiz_p3.org][Auto_Transformer_Starting_09_quiz_p3.org]]
+10. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto/Auto_Transformer_Starting_10_quiz_p4.org][Auto_Transformer_Starting_10_quiz_p4.org]]

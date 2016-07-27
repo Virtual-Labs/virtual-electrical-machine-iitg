@@ -1,0 +1,11 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_01_usability.org][Stator_Resistance_Starter_01_usability.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_02_introduction.org][Stator_Resistance_Starter_02_introduction.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_03_theory.org][Stator_Resistance_Starter_03_theory.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_04_procedure_p1.org][Stator_Resistance_Starter_04_procedure_p1.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_05_procedure_p2.org][Stator_Resistance_Starter_05_procedure_p2.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_06_simulator.org][Stator_Resistance_Starter_06_simulator.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_07_quiz_p1.org][Stator_Resistance_Starter_07_quiz_p1.org]]
+8. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_08_quiz_p2.org][Stator_Resistance_Starter_08_quiz_p2.org]]
+9. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_09_quiz_p3.org][Stator_Resistance_Starter_09_quiz_p3.org]]
+10. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Stator/Stator_Resistance_Starter_10_quiz_p4.org][Stator_Resistance_Starter_10_quiz_p4.org]]
